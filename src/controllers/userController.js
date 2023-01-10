@@ -35,7 +35,6 @@ const createUser = async function (req, res) {
 
 
 //<---------------------- User Login API --------------------->
-//Salman 
 
 const userLogin = async function (req, res) {
 	try {
